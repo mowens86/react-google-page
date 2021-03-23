@@ -1,0 +1,23 @@
+.Searchbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+}
+
+.Searchbar_Image {
+    width: 250px;
+}
+
+.Searchbar_Input {
+    margin-top: 1rem;
+    border-radius: 30px;
+    border: 1px solid #DFE1E5;
+    padding: .75rem;
+    width: 584px;
+}
+
+.Searchbar_Input:focus {
+    outline: none;
+}

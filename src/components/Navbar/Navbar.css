@@ -1,0 +1,39 @@
+.App_Nav {
+    width: 100%;
+  }
+  
+  .App_Ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .App_Ul li {
+    padding: 15px;
+  }
+  
+  .App_StartingItems {
+    display: flex;
+  }
+  
+  .App_EndingItems {
+    display: flex;
+  }
+  
+  .App_Dots {
+    width: 25px;
+  }
+  
+  .App_Icon {
+    border-radius: 50%;
+    width: 30px;
+  }
+  
+  .App_Link {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .App_Link:hover {
+    text-decoration: underline;
+  }
