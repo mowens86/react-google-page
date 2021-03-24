@@ -1,0 +1,41 @@
+.Footer {
+    background-color: #F2F2F2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #E4E4E4;
+}
+
+.Footer_Ul {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.Footer_ListItem {
+    padding: 15px;
+}
+
+.Footer_LiStart,
+.Footer_LiEnd {
+    display: flex;
+}
+
+
+.Footer_Link {
+    color: #70757A;
+    text-decoration: none;
+  }
+  
+.Footer_Link:hover {
+text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+    .Footer_Ul {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

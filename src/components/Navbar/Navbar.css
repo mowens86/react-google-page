@@ -21,12 +21,14 @@
   }
   
   .App_Dots {
-    width: 25px;
+    width: 30px;
+    margin-top: -5px;
   }
   
   .App_Icon {
     border-radius: 50%;
     width: 30px;
+    margin-top: -5px;
   }
   
   .App_Link {

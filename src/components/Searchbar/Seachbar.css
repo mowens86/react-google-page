@@ -10,6 +10,12 @@
     width: 250px;
 }
 
+.Searchbar_Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .Searchbar_Input {
     margin-top: 1rem;
     border-radius: 30px;
@@ -20,4 +26,23 @@
 
 .Searchbar_Input:focus {
     outline: none;
+}
+
+.Searchbar_Button {
+    width: 120px;
+    padding: .5rem;
+    margin-top: 1rem;
+    background-color: #F8F9FA;
+    border: 1px solid #f8f9fa;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Searchbar_Button:hover {
+    border: 1px solid #d1d0d0;
+    box-shadow: 1px 1px 3px #d1d0d0;
+}
+
+.Searchbar_Button:focus {
+    outline: #80a9fa;
 }
