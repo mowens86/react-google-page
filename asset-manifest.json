@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mowens86/react-google-pagestatic/css/main.cf63ecf4.chunk.css",
-    "main.js": "/mowens86/react-google-pagestatic/js/main.c9cb0ade.chunk.js",
-    "main.js.map": "/mowens86/react-google-pagestatic/js/main.c9cb0ade.chunk.js.map",
-    "runtime-main.js": "/mowens86/react-google-pagestatic/js/runtime-main.8d67943f.js",
-    "runtime-main.js.map": "/mowens86/react-google-pagestatic/js/runtime-main.8d67943f.js.map",
-    "static/js/2.9bbf8512.chunk.js": "/mowens86/react-google-pagestatic/js/2.9bbf8512.chunk.js",
-    "static/js/2.9bbf8512.chunk.js.map": "/mowens86/react-google-pagestatic/js/2.9bbf8512.chunk.js.map",
-    "static/js/3.5000e5cc.chunk.js": "/mowens86/react-google-pagestatic/js/3.5000e5cc.chunk.js",
-    "static/js/3.5000e5cc.chunk.js.map": "/mowens86/react-google-pagestatic/js/3.5000e5cc.chunk.js.map",
-    "index.html": "/mowens86/react-google-pageindex.html",
-    "static/css/main.cf63ecf4.chunk.css.map": "/mowens86/react-google-pagestatic/css/main.cf63ecf4.chunk.css.map",
-    "static/js/2.9bbf8512.chunk.js.LICENSE.txt": "/mowens86/react-google-pagestatic/js/2.9bbf8512.chunk.js.LICENSE.txt"
+    "main.css": "/react-google-page/static/css/main.cf63ecf4.chunk.css",
+    "main.js": "/react-google-page/static/js/main.c9cb0ade.chunk.js",
+    "main.js.map": "/react-google-page/static/js/main.c9cb0ade.chunk.js.map",
+    "runtime-main.js": "/react-google-page/static/js/runtime-main.d1ed7e9c.js",
+    "runtime-main.js.map": "/react-google-page/static/js/runtime-main.d1ed7e9c.js.map",
+    "static/js/2.9bbf8512.chunk.js": "/react-google-page/static/js/2.9bbf8512.chunk.js",
+    "static/js/2.9bbf8512.chunk.js.map": "/react-google-page/static/js/2.9bbf8512.chunk.js.map",
+    "static/js/3.5000e5cc.chunk.js": "/react-google-page/static/js/3.5000e5cc.chunk.js",
+    "static/js/3.5000e5cc.chunk.js.map": "/react-google-page/static/js/3.5000e5cc.chunk.js.map",
+    "index.html": "/react-google-page/index.html",
+    "static/css/main.cf63ecf4.chunk.css.map": "/react-google-page/static/css/main.cf63ecf4.chunk.css.map",
+    "static/js/2.9bbf8512.chunk.js.LICENSE.txt": "/react-google-page/static/js/2.9bbf8512.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d67943f.js",
+    "static/js/runtime-main.d1ed7e9c.js",
     "static/js/2.9bbf8512.chunk.js",
     "static/css/main.cf63ecf4.chunk.css",
     "static/js/main.c9cb0ade.chunk.js"
